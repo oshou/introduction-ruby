@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"name": "private_wiki",
+		"path": "/Users/oshou/.ghq/src/github.com/oshou/private_wiki"
+	},
+	{
+		"path": "/Users/oshou/.ghq/src/github.com/oshou/chrome_ext_sample"
+	},
+	{
+		"path": "/Users/oshou/.ghq/src/github.com/oshou/hcj_sample"
+	},
+	{
+		"name": "introduction-go",
+		"path": "/Users/oshou/.ghq/src/github.com/oshou/introduction-go"
+	},
+	{
+		"name": "introduction-ruby",
+		"path": "/Users/oshou/.ghq/src/github.com/oshou/introduction-ruby"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "hcj_sample"
+  }
+}
